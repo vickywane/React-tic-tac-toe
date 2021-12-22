@@ -47,12 +47,13 @@ const Welcome = () => {
         return (
             <div className="App" >
                 <div className="App-container" >
-
                     <p className="title-text" > Waiting to find your <br /> opponent ... </p>
 
                     <div className="player-options" >
                         {players.map((player) => <p key={player} className="player" > {player} </p>)}
                     </div>
+
+                    <br />
                 </div>
             </div>
         )

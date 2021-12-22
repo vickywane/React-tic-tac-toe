@@ -68,7 +68,7 @@ const Game = ({ location }) => {
             const opponentPlayer = state.player === "X" ? "O" : "X"
             setCurrentPlayer(opponentPlayer)
 
-            // A few ms waiting period is introduced to a time where the computer plays 
+            // Simulating computer move 
             setTimeout(() => {
                 tilesCopy[findUniqueRandomNumber(tilesCopy)] = opponentPlayer
                 const gameResult = getWinner(tilesCopy)
