@@ -11,8 +11,7 @@ This is a checklist of clipboards implemented from the given [Figma board](https
 - [x] Now in game - toast
 - [x] Now in game
 - [x] Game screen(s)
-
-[ ] Adding **Again** to the win status when a player wins consecutively. E.g **X Wins Again**
+- [ ] Adding **Again** to the win status when a player wins consecutively. E.g **X Wins Again**
 
 ### Personal Development Notes
 
