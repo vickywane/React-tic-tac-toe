@@ -1,5 +1,5 @@
-# Fairwinds Frontend Developer Assesment Task
-This task was given to Victory Nwani as an assesment for a Frontend Role with Fairwinds. A live preview has been deployed to Netlify and is available [here](https://practical-pasteur-f3a2d5.netlify.app/).
+# A Fun Tic-Tac-Toe Game
+A live preview has been deployed to Netlify and is available [here](https://practical-pasteur-f3a2d5.netlify.app/).
 
 ![A preview image of the application built](./src/img/preview.png)
 
@@ -25,7 +25,7 @@ This is a checklist of clipboards implemented from the given [Figma board](https
 
 ### Further Improvements
 
-Although these goals were not identified in the task description, these are stretch goals that I will love to implement if I were to extend this interview application. 
+Although these goals were not identified in the task description, these are stretch goals that I will love to implement later on. 
 
 - Persisting the `userGameRecord` component state in browser's local storage. 
 - Introduce the React context API for better state management. 
